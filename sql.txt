@@ -1,0 +1,1 @@
+These are sql statements from my project hr
